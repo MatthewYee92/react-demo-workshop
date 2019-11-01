@@ -1,0 +1,19 @@
+{
+  "name": "samplemvc-getrequest",
+  "version": "1.0.0",
+  "description": "Workshop I made for Hack Reactor SEA 06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYee92/sampleMVC-getRequest.git"
+  },
+  "author": "Matthew Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewYee92/sampleMVC-getRequest/issues"
+  },
+  "homepage": "https://github.com/MatthewYee92/sampleMVC-getRequest#readme"
+}
